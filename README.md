@@ -4,4 +4,4 @@ Module 1's challenge involved refactoring existing code. I've refactored the cod
 
 Here's a link to the site https://joesen-dev.github.io/Horiseon-v.2.0/
 
-Here's a link to the Github repository https://github.com/joesen-dev/URBAN-OCTO-TELEGRAM
+![image](https://user-images.githubusercontent.com/105400893/171738503-83ea0af3-9fe7-4037-91d7-cd822af134f8.png)
